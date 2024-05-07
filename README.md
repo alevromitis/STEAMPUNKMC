@@ -18,6 +18,7 @@ PERFOMANCE:
 	<li><a href="https://modrinth.com/mod/OVuFYfre">Enhanced Block Entities</a> [0.9+1.20]</li>
 	<li><a href="https://modrinth.com/mod/AANobbMI">Sodium</a> [0.5.8+mc1.20.1]</li>
 </ul></body></html>
+
 ---
 FEATURE:
 ---
@@ -29,6 +30,7 @@ FEATURE:
 	<li><a href="https://modrinth.com/mod/PtjYWJkn">Sodium Extra</a> [0.5.4+mc1.20.1-build.115]</li>
 	<li><a href="https://modrinth.com/mod/Orvt0mRa">Indium</a> [1.0.30+mc1.20.4]</li>
 </ul></body></html>
+
 ---
 DEBUG:
 ---
@@ -37,6 +39,7 @@ DEBUG:
 	<li><a href="https://modrinth.com/mod/QdG47OkI">Model Gap Fix</a> [1.15]</li>
 	<li><a href="https://modrinth.com/mod/yM94ont6">Not Enough Crashes</a> [4.4.7+1.20.1]</li>
 </ul></body></html>
+
 ---  
 WORLDGEN:  
 ---  
@@ -45,7 +48,6 @@ WORLDGEN:
 	<li><a href="https://modrinth.com/mod/gc8OEnCC">Better End</a> [4.0.11]</li>
 	<li><a href="https://modrinth.com/mod/MpzVLzy5">Better Nether</a> [9.0.10]</li>
 </ul></body></html>
-
 
 ---
 QoL & MANAGEMENT:  
@@ -101,6 +103,7 @@ QoL & MANAGEMENT:
 	<li><a href="https://modrinth.com/mod/9hx3AbJM">Easy Magic</a> [8.0.1]</li>
 	<li><a href="https://modrinth.com/mod/Y5Ve4Ui4">Antique Atlas</a> [2.7.2+1.20]</li>
 </ul></body></html>
+
 ---
 CONTENT(s):
 ---
@@ -122,6 +125,7 @@ CONTENT(s):
 	<li><a href="https://modrinth.com/mod/LOAzExdy">Blank Discs</a> [1.0.0]</li>
 	<li><a href="https://modrinth.com/mod/zfbCkvdZ">Kambrik</a> [6.1.1+1.20.1]</li>
 </ul></body></html>
+
 ---
 DEPENDENCIES/LIBRARIES:  
 ---
