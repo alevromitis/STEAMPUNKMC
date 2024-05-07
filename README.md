@@ -29,6 +29,8 @@ FEATURE:
 	<li><a href="https://modrinth.com/mod/Bh37bMuy">Reese's Sodium Options</a> [1.7.2+mc1.20.1-build.101]</li>
 	<li><a href="https://modrinth.com/mod/PtjYWJkn">Sodium Extra</a> [0.5.4+mc1.20.1-build.115]</li>
 	<li><a href="https://modrinth.com/mod/Orvt0mRa">Indium</a> [1.0.30+mc1.20.4]</li>
+	<li><a href="https://modrinth.com/mod/4I1XuqiY">Entity Model Features</a> [2.0.2]</li>
+	<li><a href="https://modrinth.com/mod/BVzZfTc1">Entity Texture Features</a> [6.0.1]</li>
 </ul></body></html>
 
 ---
