@@ -24,7 +24,6 @@ PERFOMANCE/STABILITY/DEBUG:
 	<li><a href="https://modrinth.com/mod/4I1XuqiY">Entity Model Features</a> [2.0.2]</li>
 	<li><a href="https://modrinth.com/mod/yM94ont6">Not Enough Crashes</a> [4.4.7+1.20.1]</li>
 	<li><a href="https://modrinth.com/mod/TbriQCWD">GeckoLibIrisCompat</a> [1.0.0]</li>
-	<li><a href="https://modrinth.com/mod/ndHYMY2K">Iris Flywheel Compat</a> [0.2.1]</li>
 	<li><a href="https://modrinth.com/mod/BVzZfTc1">Entity Texture Features</a> [6.0.1]</li>
 	<li><a href="https://modrinth.com/mod/YL57xq9U">Iris</a> [1.7.0+mc1.20.1]</li>
 	<li><a href="https://modrinth.com/mod/Bh37bMuy">Reese's Sodium Options</a> [1.7.2+mc1.20.1-build.101]</li>
@@ -107,5 +106,24 @@ CONTENT(s):
 	<li><a href="https://modrinth.com/mod/pvcsfne4">Chefs Delight</a> [1.0.3-fabric-1.20.1]</li>
 </ul></body></html>
 
+---
+DEPENDENCIES/LIBRARIES:  
+---
+<html><body><ul>
+	<li><a href="https://modrinth.com/mod/OsZiaDHq">CreativeCore</a> [2.11.24]</li>
+	<li><a href="https://modrinth.com/mod/BgNRHReB">BCLib</a> [3.0.14]</li>
+	<li><a href="https://modrinth.com/mod/P7dR8mSH">Fabric API</a> [0.92.1+1.20.1]</li>
+	<li><a href="https://modrinth.com/mod/fuuu3xnx">Searchables</a> [1.0.3]</li>
+	<li><a href="https://modrinth.com/mod/5faXoLqX">Iceberg</a> [1.1.18]</li>
+	<li><a href="https://modrinth.com/mod/uy4Cnpcm">Bookshelf</a> [20.1.10]</li>
+	<li><a href="https://modrinth.com/mod/ccKDOlHs">oωo</a> [0.11.2+1.20]</li>
+	<li><a href="https://modrinth.com/mod/QAGBst4M">Puzzles Lib</a> [8.1.18]</li>
+	<li><a href="https://modrinth.com/mod/Ua7DFN59">YUNG's API</a> [1.20-Fabric-4.0.4]</li>
+	<li><a href="https://modrinth.com/mod/rLLJ1OZM">CoroUtil</a> [1.20.1-1.3.7]</li>
+	<li><a href="https://modrinth.com/mod/ftdbN0KK">Bad Packets</a> [0.4.3]</li>
+	<li><a href="https://modrinth.com/mod/lhGA9TYQ">Architectury</a> [9.2.14]</li>
+	<li><a href="https://modrinth.com/mod/ohNO6lps">Forge Config API Port</a> [8.0.0]</li>
+	<li><a href="https://www.curseforge.com/projects/326652">cupboard</a> [1.20.1-2.6]</li>
+</ul></body></html>
 
 
