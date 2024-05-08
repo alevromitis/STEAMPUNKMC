@@ -121,10 +121,11 @@ CONTENT(s):
 	<li><a href="https://modrinth.com/mod/BpwWFOVM">Bountiful</a> [6.0.3+1.20.1]</li>
 	<li><a href="https://modrinth.com/mod/HQsBdHGd">Ender Dragon Fight Remastered</a> [4.3]</li>
 	<li><a href="https://modrinth.com/mod/Xbc0uyRg">Create</a> [0.5.1-f-build.1417+mc1.20.1]</li>
-	<li><a href="https://modrinth.com/mod/jmJ87gsb">Delightful Creators</a> [1.1.8]</li>
 	<li><a href="https://modrinth.com/mod/E9MuZ1zB">Create: Power Loader</a> [1.4.3-mc1.20.1-fabric]</li>
 	<li><a href="https://modrinth.com/mod/CXd6g9xp">NiftyCarts</a> [3.0.2+1.20.1]</li>
 	<li><a href="https://modrinth.com/mod/LOAzExdy">Blank Discs</a> [1.0.0]</li>
+	<li><a href="https://modrinth.com/mod/GmjmRQ0A">Create Slice &amp; Dice</a> [3.2.1]</li>
+	<li><a href="https://modrinth.com/mod/6iTJugQR">Amendments</a> [1.20-1.1.27]</li>
 </ul></body></html>
 
 ---
@@ -148,6 +149,8 @@ DEPENDENCIES/LIBRARIES:
 	<li><a href="https://modrinth.com/mod/zfbCkvdZ">Kambrik</a> [6.1.1+1.20.1]</li>
 	<li><a href="https://modrinth.com/mod/8FdYDHF5">AutoTag Convention</a> [2.0.2+1.20]</li>
 	<li><a href="https://modrinth.com/mod/4KjqhPc9">Surveyor Map Framework</a> [0.1.0-beta.11+1.20]</li>
+	li><a href="https://modrinth.com/mod/Ha28R6CL">Fabric Language Kotlin</a> [1.10.19+kotlin.1.9.23]</li>
+	<li><a href="https://modrinth.com/mod/twkfQtEc">Moonlight</a> [1.20-2.11.17]</li>
 </ul></body></html>
 
 
