@@ -149,7 +149,7 @@ DEPENDENCIES/LIBRARIES:
 	<li><a href="https://modrinth.com/mod/zfbCkvdZ">Kambrik</a> [6.1.1+1.20.1]</li>
 	<li><a href="https://modrinth.com/mod/8FdYDHF5">AutoTag Convention</a> [2.0.2+1.20]</li>
 	<li><a href="https://modrinth.com/mod/4KjqhPc9">Surveyor Map Framework</a> [0.1.0-beta.11+1.20]</li>
-	li><a href="https://modrinth.com/mod/Ha28R6CL">Fabric Language Kotlin</a> [1.10.19+kotlin.1.9.23]</li>
+	<li><a href="https://modrinth.com/mod/Ha28R6CL">Fabric Language Kotlin</a> [1.10.19+kotlin.1.9.23]</li>
 	<li><a href="https://modrinth.com/mod/twkfQtEc">Moonlight</a> [1.20-2.11.17]</li>
 </ul></body></html>
 
