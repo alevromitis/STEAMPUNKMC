@@ -95,7 +95,6 @@ QoL & MANAGEMENT:
 	<li><a href="https://modrinth.com/mod/V8XJ8f5f">Roughly Enough Professions</a> [2.0.2]</li>
 	<li><a href="https://modrinth.com/mod/yn9u3ypm">Universal Graves</a> [3.0.1+1.20.1]</li>
 	<li><a href="https://modrinth.com/mod/rI0hvYcd">Visuality</a> [0.7.1+1.20]</li>
-	<li><a href="https://www.curseforge.com/projects/840873">biomemusic mod</a> [NONE]</li>
 	<li><a href="https://modrinth.com/mod/H7fshfpD">Dynamic Surroundings</a> [0.3.3]</li>
 	<li><a href="https://modrinth.com/mod/OZBR5JT5">Easy Anvils</a> [8.0.2]</li>
 	<li><a href="https://modrinth.com/mod/KJe6y9Eu">Fabric Seasons</a> [2.3+1.20]</li>
@@ -145,7 +144,6 @@ DEPENDENCIES/LIBRARIES:
 	<li><a href="https://modrinth.com/mod/ftdbN0KK">Bad Packets</a> [0.4.3]</li>
 	<li><a href="https://modrinth.com/mod/lhGA9TYQ">Architectury</a> [9.2.14]</li>
 	<li><a href="https://modrinth.com/mod/ohNO6lps">Forge Config API Port</a> [8.0.0]</li>
-	<li><a href="https://www.curseforge.com/projects/326652">cupboard</a> [1.20.1-2.6]</li>
 	<li><a href="https://modrinth.com/mod/zfbCkvdZ">Kambrik</a> [6.1.1+1.20.1]</li>
 	<li><a href="https://modrinth.com/mod/8FdYDHF5">AutoTag Convention</a> [2.0.2+1.20]</li>
 	<li><a href="https://modrinth.com/mod/4KjqhPc9">Surveyor Map Framework</a> [0.1.0-beta.11+1.20]</li>
