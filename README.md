@@ -130,7 +130,6 @@ DEPENDENCIES/LIBRARIES:
 ---
 <html><body><ul>
 	<li><a href="https://modrinth.com/mod/OsZiaDHq">CreativeCore</a> [2.11.24]</li>
-	<li><a href="https://modrinth.com/mod/BgNRHReB">BCLib</a> [3.0.14]</li>
 	<li><a href="https://modrinth.com/mod/P7dR8mSH">Fabric API</a> [0.92.1+1.20.1]</li>
 	<li><a href="https://modrinth.com/mod/fuuu3xnx">Searchables</a> [1.0.3]</li>
 	<li><a href="https://modrinth.com/mod/5faXoLqX">Iceberg</a> [1.1.18]</li>
