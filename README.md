@@ -47,9 +47,6 @@ WORLDGEN:
 ---  
 <html><body><ul>
 	<li><a href="https://modrinth.com/mod/sTZr7NVo">Fabric Waystones</a> [3.3.2+mc1.20.1]</li>
-	<li><a href="https://modrinth.com/mod/gmUU3UdW">Incendium Biomes Only</a> [1.0.0]</li>
-	<li><a href="https://modrinth.com/mod/LPjGiSO4">Nullscape</a> [1.2.4]</li>
-	<li><a href="https://modrinth.com/mod/ZVzW5oNS">Incendium</a> [5.3.4]</li>
 </ul></body></html>
 
 ---
