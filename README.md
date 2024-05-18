@@ -164,6 +164,7 @@ DEPENDENCIES/LIBRARIES:
 	<li><a href="https://modrinth.com/mod/4KjqhPc9">Surveyor Map Framework</a> [0.1.0-beta.11+1.20]</li>
 	<li><a href="https://modrinth.com/mod/Ha28R6CL">Fabric Language Kotlin</a> [1.10.19+kotlin.1.9.23]</li>
 	<li><a href="https://modrinth.com/mod/twkfQtEc">Moonlight</a> [1.20-2.11.17]</li>
+	<li><a href="https://modrinth.com/mod/LN9BxssP">SuperMartijn642's Config Lib</a> [1.1.8+a]</li>
 </ul></body></html>
 
 
