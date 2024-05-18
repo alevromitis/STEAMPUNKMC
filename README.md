@@ -101,6 +101,24 @@ QoL & MANAGEMENT:
 	<li><a href="https://modrinth.com/mod/9hx3AbJM">Easy Magic</a> [8.0.1]</li>
  	<li><a href="https://modrinth.com/mod/TggYmc6t">EnvironmentZ</a> [2.0.8]</li>
 	<li><a href="https://modrinth.com/mod/qWDh3G0p">Dehydration</a> [1.3.6]</li>
+	<li><a href="https://modrinth.com/mod/WwbubTsV">YOSBR</a> [0.1.2]</li>
+	<li><a href="https://modrinth.com/mod/YBz7DOs8">FabricSkyBoxes</a> [0.7.3+mc1.20.1]</li>
+	<li><a href="https://modrinth.com/mod/JuksLGBQ">OptiGUI</a> [2.1.7]</li>
+	<li><a href="https://modrinth.com/mod/LQ3K71Q1">Dynamic FPS</a> [3.4.3]</li>
+	<li><a href="https://modrinth.com/mod/89Wsn8GD">Capes</a> [1.5.2+1.20]</li>
+	<li><a href="https://modrinth.com/mod/2M01OLQq">Shulker Box Tooltip</a> [4.0.4+1.20.1]</li>
+	<li><a href="https://modrinth.com/mod/3qsfQtE9">Fabrishot</a> [1.10.1]</li>
+	<li><a href="https://modrinth.com/mod/nU0bVIaL">Patchouli</a> [1.20.1-84-FABRIC]</li>
+	<li><a href="https://modrinth.com/mod/pJogNFap">Paginated Advancements</a> [2.3.0]</li>
+	<li><a href="https://modrinth.com/mod/yoJJjRRE">Clear Despawn</a> [1.1.15]</li>
+	<li><a href="https://modrinth.com/mod/XeEZ3fK2">Freecam (Modrinth Edition)</a> [1.2.1+1.20]</li>
+	<li><a href="https://modrinth.com/mod/uEfK2CXF">Just Enough Resources</a> [1.4.0.247]</li>
+	<li><a href="https://modrinth.com/mod/RLzHAoZe">Resourcify</a> [1.3.6]</li>
+	<li><a href="https://modrinth.com/mod/5ibSyLAz">Inventory Sorter</a> [1.9.0-1.20]</li>
+	<li><a href="https://modrinth.com/mod/x02cBj9Y">Status Effect Bars</a> [1.0.3]</li>
+	<li><a href="https://modrinth.com/mod/cudtvDnd">In-Game Account Switcher</a> [9.0.0-beta.4]</li>
+	<li><a href="https://modrinth.com/mod/MOqt4Z5n">Chat Patches</a> [201.5.5]</li>
+	<li><a href="https://modrinth.com/mod/smUP7V3r">Durability Tooltip</a> [1.1.5]</li>
 </ul></body></html>
 
 ---
