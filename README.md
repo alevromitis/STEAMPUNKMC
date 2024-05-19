@@ -179,7 +179,14 @@ QoL & MANAGEMENT:   
 <li><a href="https://modrinth.com/mod/ErpAAAaf">Interactic</a> [0.2.0+1.20]</li>
 <li><a href="https://modrinth.com/mod/of7wIinq">SnowyLeavesPlus</a> [0.1.9]</li>
 <li><a href="https://modrinth.com/mod/gPCdW0Wr">Make Bubbles Pop Mod</a> [0.2.0-fabric]</li>
-<li><a href="https://modrinth.com/datapack/terralith-biome-saplings">Custom Biome Saplings</a></li>
+<li><a href="https://modrinth.com/mod/Bh6ZOMvp">Smarter Farmers</a> [1.20-1.8.2]</li>
+<li><a href="https://modrinth.com/mod/zrzYrlm0">Spawn Animations</a> [1.9.4+mod]</li>
+<li><a href="https://modrinth.com/mod/ZPywkPEo">Realistic Sleep</a> [1.10.2+mc1.20-1.20.1]</li>
+<li><a href="https://modrinth.com/mod/AVq17PqV">Leaves Be Gone</a> [8.0.0]</li>
+<li><a href="https://modrinth.com/mod/rkN8aqci">Async Locator</a> [1.3.0]</li>
+<li><a href="https://modrinth.com/mod/HQsBdHGd">Ender Dragon Fight Remastered</a> [4.3]</li>
+<li><a href="https://modrinth.com/mod/villager-names-serilum">Villager Names</a> [7.3]</li>
+<li><a href="https://modrinth.com/mod/SRlzjEBS">AudioPlayer</a> [1.20.1-1.10.0]</li>
 </ul>
 
 ---
@@ -202,7 +209,6 @@ CONTENT(s):
 <li><a href="https://modrinth.com/mod/LOAzExdy">Blank Discs</a> [1.0.0]</li>
 <li><a href="https://modrinth.com/mod/GmjmRQ0A">Create Slice &amp; Dice</a> [3.2.1]</li>
 <li><a href="https://modrinth.com/mod/6iTJugQR">Amendments</a> [1.20-1.1.27]</li>
-<li><a href="https://modrinth.com/mod/villager-names-serilum">Villager Names</a></li>
 </ul>
 
 ---
