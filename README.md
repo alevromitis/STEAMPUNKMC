@@ -20,7 +20,6 @@
 <details>
 <summary>Mods</summary>
 
-
 ---
 PERFOMANCE:
 ---
@@ -231,71 +230,23 @@ DEPENDENCIES/LIBRARIES:   
 </ul>
 </details>
 
-
-
----
-RESOURCE PACK(s):
----
-<html><body><ul>
 <details>
-<summary>Resource Packs</summary>
-  <ul>
-  <li><a href="https://www.curseforge.com/minecraft/texture-packs/create-immersive-aircrafts-resource-pack">Create Immersive Aircrafts</a></li>
-  <li><a href="https://modrinth.com/resourcepack/embellished-stone-advancements-plaques">Embellished Stone</a></li>
-  <li><a href="https://modrinth.com/resourcepack/fresh-animations">Fresh Animations</a></li>
-  <li><a href="https://modrinth.com/resourcepack/more-mob-variants-fresh-animations-addon">More Mob Variants x Fresh Animations</a></li>
-  <li><a href="https://modrinth.com/resourcepack/cubic-sun-moon">Cubic Sun & Moon</a></li>
-</ul></body></html>
-</ul>
-</details>
-
-
-
----
-
-SHADER PACK(s):
-
----
-
-<html><body><ul>
-
-<details>
-
-<summary>Shader Packs</summary>
-
-  <ul>
-
-  <li><a href="https://modrinth.com/shader/complementary-unbound">Complimentary Unbound</a></li>
-
-</ul></body></html>
-
-  </ul>
-
-</details>
-
-
-
-</details>
-
-<details>
-<summary>Resource Packs</summary>
-  <ul>
-  <li><a href="https://www.curseforge.com/minecraft/texture-packs/create-immersive-aircrafts-resource-pack">Create Immersive Aircrafts</a></li>
-  <li><a href="https://modrinth.com/resourcepack/embellished-stone-advancements-plaques">Embellished Stone</a></li>
-  <li><a href="https://modrinth.com/resourcepack/fresh-animations">Fresh Animations</a></li>
-  <li><a href="https://modrinth.com/resourcepack/more-mob-variants-fresh-animations-addon">More Mob Variants x Fresh Animations</a></li>
-  <li><a href="https://modrinth.com/resourcepack/cubic-sun-moon">Cubic Sun & Moon</a></li>
+<summary>Resource Pack(s)</summary>
+<ul>
+<li><a href="https://www.curseforge.com/minecraft/texture-packs/create-immersive-aircrafts-resource-pack">Create Immersive Aircrafts</a></li>
+<li><a href="https://modrinth.com/resourcepack/embellished-stone-advancements-plaques">Embellished Stone</a></li>
+<li><a href="https://modrinth.com/resourcepack/fresh-animations">Fresh Animations</a></li>
+<li><a href="https://modrinth.com/resourcepack/more-mob-variants-fresh-animations-addon">More Mob Variants x Fresh Animations</a></li>
+<li><a href="https://modrinth.com/resourcepack/cubic-sun-moon">Cubic Sun & Moon</a></li>
 </ul>
 </details>
 
 <details>
-<summary>Shader Packs</summary>
-  <ul>
-  <li><a href="https://modrinth.com/shader/complementary-unbound">Complimentary Unbound</a></li>
-  </ul>
+<summary>Shader Pack(s)</summary>
+<ul>
+<li><a href="https://modrinth.com/shader/complementary-unbound">Complimentary Unbound</a></li>
+</ul>
 </details>
-
-
 
 
 
