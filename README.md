@@ -119,6 +119,10 @@ QoL & MANAGEMENT:
 	<li><a href="https://modrinth.com/mod/cudtvDnd">In-Game Account Switcher</a> [9.0.0-beta.4]</li>
 	<li><a href="https://modrinth.com/mod/MOqt4Z5n">Chat Patches</a> [201.5.5]</li>
 	<li><a href="https://modrinth.com/mod/smUP7V3r">Durability Tooltip</a> [1.1.5]</li>
+	<li><a href="https://modrinth.com/mod/rUgZvGzi">Eating Animation</a> [1.20+1.9.61]</li>
+	<li><a href="https://modrinth.com/mod/ErpAAAaf">Interactic</a> [0.2.0+1.20]</li>
+	<li><a href="https://modrinth.com/mod/of7wIinq">SnowyLeavesPlus</a> [0.1.9]</li>
+	<li><a href="https://modrinth.com/mod/gPCdW0Wr">Make Bubbles Pop Mod</a> [0.2.0-fabric]</li>
 </ul></body></html>
 
 ---
@@ -165,6 +169,24 @@ DEPENDENCIES/LIBRARIES:
 	<li><a href="https://modrinth.com/mod/Ha28R6CL">Fabric Language Kotlin</a> [1.10.19+kotlin.1.9.23]</li>
 	<li><a href="https://modrinth.com/mod/twkfQtEc">Moonlight</a> [1.20-2.11.17]</li>
 	<li><a href="https://modrinth.com/mod/LN9BxssP">SuperMartijn642's Config Lib</a> [1.1.8+a]</li>
+</ul></body></html>
+
+---
+RESOURCE PACK(s):
+---
+<html><body><ul>
+  <li><a href="https://www.curseforge.com/minecraft/texture-packs/create-immersive-aircrafts-resource-pack">Create Immersive Aircrafts</a></li>
+  <li><a href="https://modrinth.com/resourcepack/embellished-stone-advancements-plaques">Embellished Stone</a></li>
+  <li><a href="https://modrinth.com/resourcepack/fresh-animations">Fresh Animations</a></li>
+  <li><a href="https://modrinth.com/resourcepack/more-mob-variants-fresh-animations-addon">More Mob Variants x Fresh Animations</a></li>
+  <li><a href="https://modrinth.com/resourcepack/cubic-sun-moon">Cubic Sun & Moon</a></li>
+</ul></body></html>
+
+---
+SHADER PACK(s):
+---
+<html><body><ul>
+  <li><a href="https://modrinth.com/shader/complementary-unbound">Complimentary Unbound</a></li>
 </ul></body></html>
 
 
