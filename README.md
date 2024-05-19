@@ -15,7 +15,11 @@
 
 ## **-> NOTE:**
 > This modpack is designed for a **private server***.\
-> Despite that, it can be used independently in singleplayer or in any other multiplayer servers. 
+> Despite that, it can be used independently in singleplayer or in any other multiplayer servers.
+
+## **-> RELEASES:**
+> Due to Modrinth's TOS & mod licencing complications, all releases will be hosted on their platform.\
+> -> https://modrinth.com/modpack/agelimc/ 
 
 <details>
 <summary>Mods</summary>
