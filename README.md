@@ -123,6 +123,7 @@ QoL & MANAGEMENT:
 	<li><a href="https://modrinth.com/mod/ErpAAAaf">Interactic</a> [0.2.0+1.20]</li>
 	<li><a href="https://modrinth.com/mod/of7wIinq">SnowyLeavesPlus</a> [0.1.9]</li>
 	<li><a href="https://modrinth.com/mod/gPCdW0Wr">Make Bubbles Pop Mod</a> [0.2.0-fabric]</li>
+	<li><a href="https://modrinth.com/datapack/terralith-biome-saplings">Custom Biome Saplings</a></li>
 </ul></body></html>
 
 ---
@@ -145,6 +146,7 @@ CONTENT(s):
 	<li><a href="https://modrinth.com/mod/LOAzExdy">Blank Discs</a> [1.0.0]</li>
 	<li><a href="https://modrinth.com/mod/GmjmRQ0A">Create Slice &amp; Dice</a> [3.2.1]</li>
 	<li><a href="https://modrinth.com/mod/6iTJugQR">Amendments</a> [1.20-1.1.27]</li>
+	<li><a href="https://modrinth.com/mod/villager-names-serilum">Villager Names</a></li>
 </ul></body></html>
 
 ---
