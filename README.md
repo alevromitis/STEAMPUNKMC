@@ -242,17 +242,47 @@ DEPENDENCIES/LIBRARIES:   
 
 <details>
 <summary>Resource Pack(s)</summary>
+
+---
+ENTITY(s):
+---
 <ul>
 <li><a href="https://www.curseforge.com/minecraft/texture-packs/create-immersive-aircrafts-resource-pack">Create Immersive Aircrafts</a></li>
-<li><a href="https://modrinth.com/resourcepack/embellished-stone-advancements-plaques">Embellished Stone</a></li>
 <li><a href="https://modrinth.com/resourcepack/fresh-animations">Fresh Animations</a></li>
 <li><a href="https://modrinth.com/resourcepack/more-mob-variants-fresh-animations-addon">More Mob Variants x Fresh Animations</a></li>
+</ul>
+
+---
+GUI:
+---
+
+<ul>
+<li><a href="https://modrinth.com/resourcepack/embellished-stone-advancements-plaques">Embellished Stone</a></li>
+</ul>
+
+---
+AMBIENCE:
+---
+
+<ul>
 <li><a href="https://modrinth.com/resourcepack/cubic-sun-moon">Cubic Sun & Moon</a></li>
 </ul>
 </details>
 
 <details>
 <summary>Shader Pack(s)</summary>
+
+---
+VANILLA:
+---
+
+<ul>
+<li><a href="">Planned for later release!</a></li>
+</ul>
+
+---
+MODDED:
+---
 <ul>
 <li><a href="https://modrinth.com/shader/complementary-unbound">Complimentary Unbound</a></li>
 </ul>
