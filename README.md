@@ -191,6 +191,7 @@ QoL & MANAGEMENT:   
 <li><a href="https://modrinth.com/mod/HQsBdHGd">Ender Dragon Fight Remastered</a> [4.3]</li>
 <li><a href="https://modrinth.com/mod/villager-names-serilum">Villager Names</a> [7.3]</li>
 <li><a href="https://modrinth.com/mod/SRlzjEBS">AudioPlayer</a> [1.20.1-1.10.0]</li>
+<li><a href="https://modrinth.com/mod/nU0bVIaL">Patchouli</a> [1.20.1-84-FABRIC]</li>
 </ul>
 
 ---
