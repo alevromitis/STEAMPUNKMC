@@ -42,6 +42,7 @@ PERFOMANCE:
 	<li><a href="https://modrinth.com/mod/NRjRiSSD">Memory Leak Fix</a> [1.1.5]</li>
     	<li><a href="https://modrinth.com/mod/KuNKN7d2">Noisium</a> [2.0.3+mc1.20-1.20.1]</li>
     	<li><a href="https://modrinth.com/mod/fQEb0iXm">Krypton</a> [0.2.3]</li>
+	<li><a href="https://modrinth.com/mod/l6YH9Als">+ spark</a> [1.10.53]</li>
 </ul>
 
 ---
@@ -192,6 +193,12 @@ QoL & MANAGEMENT:   
 <li><a href="https://modrinth.com/mod/villager-names-serilum">Villager Names</a> [7.3]</li>
 <li><a href="https://modrinth.com/mod/SRlzjEBS">AudioPlayer</a> [1.20.1-1.10.0]</li>
 <li><a href="https://modrinth.com/mod/nU0bVIaL">Patchouli</a> [1.20.1-84-FABRIC]</li>
+<li><a href="https://modrinth.com/mod/Vebnzrzj">+ LuckPerms</a> [5.4.102]</li>
+<li><a href="https://modrinth.com/mod/LVN9ygNV">+ Ledger</a> [1.2.8]</li>
+<li><a href="https://modrinth.com/mod/s86X568j">+ ChunkyBorder</a> [1.1.53]</li>
+<li><a href="https://modrinth.com/mod/LFJf0Klb">+ Chunky extended</a> [2.1.1]</li>
+<li><a href="https://modrinth.com/mod/fALzjamp">+ Chunky</a> [1.3.146]</li>
+<li><a href="https://modrinth.com/mod/8dI2tmqs">+ FabricProxy Lite</a> [2.6.0]</li>
 </ul>
 
 ---
