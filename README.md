@@ -42,7 +42,7 @@ PERFOMANCE:
 	<li><a href="https://modrinth.com/mod/NRjRiSSD">Memory Leak Fix</a> [1.1.5]</li>
     	<li><a href="https://modrinth.com/mod/KuNKN7d2">Noisium</a> [2.0.3+mc1.20-1.20.1]</li>
     	<li><a href="https://modrinth.com/mod/fQEb0iXm">Krypton</a> [0.2.3]</li>
-	<li><a href="https://modrinth.com/mod/l6YH9Als">+ spark</a> [1.10.53]</li>
+	<li><a href="https://modrinth.com/mod/l6YH9Als">spark</a> [1.10.53]</li>
 </ul>
 
 ---
@@ -76,12 +76,10 @@ DEBUG:
 WORLDGEN:
 ---
 <ul>
-<li><a href="https://modrinth.com/mod/CdRC4fyI">CTOV - Farmer Delight Compat</a> [2.1]</li>
 <li><a href="https://modrinth.com/mod/IAnP4np7">Create: Structures</a> [1.1.0]</li>
 <li><a href="https://modrinth.com/mod/tb5O1ssC">Abridged</a> [1.1.1]</li>
 <li><a href="https://modrinth.com/mod/OQAgZMH1">Moog's Voyager Structures</a> [4.1.2-1.20-fabric]</li>
 <li><a href="https://modrinth.com/mod/fgmhI8kH">ChoiceTheorem's Overhauled Village</a> [3.4.3]</li>
-<li><a href="https://modrinth.com/mod/6PJbKvJH">CTOV - Chef's delight Compat</a> [2.0]</li>
 <li><a href="https://modrinth.com/mod/l9fldtN4">CTOV - Create: Structures</a> [1.0]</li>
 <li><a href="https://modrinth.com/mod/lWDHr9jE">Tectonic</a> [2.3.4]</li>
 <li><a href="https://modrinth.com/mod/8oi3bsk5">Terralith</a> [2.4.11]</li>
@@ -160,8 +158,6 @@ QoL & MANAGEMENT:   
 <li><a href="https://modrinth.com/mod/fPetb5Kh">Nature's Compass</a> [1.20.1-2.2.3-fabric]</li>
 <li><a href="https://modrinth.com/mod/RV1qfVQ8">Explorer's Compass</a> [1.20.1-2.2.3-fabric]</li>
 <li><a href="https://modrinth.com/mod/9hx3AbJM">Easy Magic</a> [8.0.1]</li>
-<li><a href="https://modrinth.com/mod/TggYmc6t">EnvironmentZ</a> [2.0.8]</li>
-<li><a href="https://modrinth.com/mod/qWDh3G0p">Dehydration</a> [1.3.6]</li>
 <li><a href="https://modrinth.com/mod/WwbubTsV">YOSBR</a> [0.1.2]</li>
 <li><a href="https://modrinth.com/mod/YBz7DOs8">FabricSkyBoxes</a> [0.7.3+mc1.20.1]</li>
 <li><a href="https://modrinth.com/mod/JuksLGBQ">OptiGUI</a> [2.1.7]</li>
@@ -184,7 +180,6 @@ QoL & MANAGEMENT:   
 <li><a href="https://modrinth.com/mod/ErpAAAaf">Interactic</a> [0.2.0+1.20]</li>
 <li><a href="https://modrinth.com/mod/of7wIinq">SnowyLeavesPlus</a> [0.1.9]</li>
 <li><a href="https://modrinth.com/mod/gPCdW0Wr">Make Bubbles Pop Mod</a> [0.2.0-fabric]</li>
-<li><a href="https://modrinth.com/mod/Bh6ZOMvp">Smarter Farmers</a> [1.20-1.8.2]</li>
 <li><a href="https://modrinth.com/mod/zrzYrlm0">Spawn Animations</a> [1.9.4+mod]</li>
 <li><a href="https://modrinth.com/mod/ZPywkPEo">Realistic Sleep</a> [1.10.2+mc1.20-1.20.1]</li>
 <li><a href="https://modrinth.com/mod/AVq17PqV">Leaves Be Gone</a> [8.0.0]</li>
@@ -193,11 +188,11 @@ QoL & MANAGEMENT:   
 <li><a href="https://modrinth.com/mod/villager-names-serilum">Villager Names</a> [7.3]</li>
 <li><a href="https://modrinth.com/mod/SRlzjEBS">AudioPlayer</a> [1.20.1-1.10.0]</li>
 <li><a href="https://modrinth.com/mod/nU0bVIaL">Patchouli</a> [1.20.1-84-FABRIC]</li>
-<li><a href="https://modrinth.com/mod/Vebnzrzj">+ LuckPerms</a> [5.4.102]</li>
-<li><a href="https://modrinth.com/mod/s86X568j">+ ChunkyBorder</a> [1.1.53]</li>
-<li><a href="https://modrinth.com/mod/LFJf0Klb">+ Chunky extended</a> [2.1.1]</li>
-<li><a href="https://modrinth.com/mod/fALzjamp">+ Chunky</a> [1.3.146]</li>
-<li><a href="https://modrinth.com/mod/8dI2tmqs">+ FabricProxy Lite</a> [2.6.0]</li>
+<li><a href="https://modrinth.com/mod/Vebnzrzj">LuckPerms</a> [5.4.102]</li>
+<li><a href="https://modrinth.com/mod/s86X568j">ChunkyBorder</a> [1.1.53]</li>
+<li><a href="https://modrinth.com/mod/LFJf0Klb">Chunky extended</a> [2.1.1]</li>
+<li><a href="https://modrinth.com/mod/fALzjamp">Chunky</a> [1.3.146]</li>
+<li><a href="https://modrinth.com/mod/8dI2tmqs">FabricProxy Lite</a> [2.6.0]</li>
 </ul>
 
 ---
@@ -205,10 +200,7 @@ CONTENT(s):
 ---
 <ul>
 <li><a href="https://modrinth.com/mod/x3HZvrj6">Immersive Aircraft</a> [0.7.5+1.20.1]</li>
-<li><a href="https://modrinth.com/mod/pvcsfne4">Chefs Delight</a> [1.0.3-fabric-1.20.1]</li>
-<li><a href="https://modrinth.com/mod/fFEIiSDQ">Supplementaries</a> [1.20-2.8.10]</li>
 <li><a href="https://modrinth.com/mod/pJmCFF0p">Handcrafted</a> [3.0.6]</li>
-<li><a href="https://modrinth.com/mod/7vxePowz">Farmer's Delight</a> [1.20.1-2.1.1+refabricated]</li>
 <li><a href="https://modrinth.com/mod/JiEhJ3WG">More Mob Variants</a> [1.3.0.1]</li>
 <li><a href="https://modrinth.com/mod/F8BQNPWX">Naturalist</a> [4.0.3]</li>
 <li><a href="https://modrinth.com/mod/rGWEHQrP">Small Ships</a> [2.0.0-b1.1]</li>
@@ -218,8 +210,6 @@ CONTENT(s):
 <li><a href="https://modrinth.com/mod/E9MuZ1zB">Create: Power Loader</a> [1.4.3-mc1.20.1-fabric]</li>
 <li><a href="https://modrinth.com/mod/CXd6g9xp">NiftyCarts</a> [3.0.2+1.20.1]</li>
 <li><a href="https://modrinth.com/mod/LOAzExdy">Blank Discs</a> [1.0.0]</li>
-<li><a href="https://modrinth.com/mod/GmjmRQ0A">Create Slice &amp; Dice</a> [3.2.1]</li>
-<li><a href="https://modrinth.com/mod/6iTJugQR">Amendments</a> [1.20-1.1.27]</li>
 </ul>
 
 ---
@@ -239,10 +229,8 @@ DEPENDENCIES/LIBRARIES:   
 <li><a href="https://modrinth.com/mod/lhGA9TYQ">Architectury</a> [9.2.14]</li>
 <li><a href="https://modrinth.com/mod/ohNO6lps">Forge Config API Port</a> [8.0.0]</li>
 <li><a href="https://modrinth.com/mod/zfbCkvdZ">Kambrik</a> [6.1.1+1.20.1]</li>
-<li><a href="https://modrinth.com/mod/8FdYDHF5">AutoTag Convention</a> [2.0.2+1.20]</li>
 <li><a href="https://modrinth.com/mod/4KjqhPc9">Surveyor Map Framework</a> [0.1.0-beta.11+1.20]</li>
 <li><a href="https://modrinth.com/mod/Ha28R6CL">Fabric Language Kotlin</a> [1.10.19+kotlin.1.9.23]</li>
-<li><a href="https://modrinth.com/mod/twkfQtEc">Moonlight</a> [1.20-2.11.17]</li>
 <li><a href="https://modrinth.com/mod/LN9BxssP">SuperMartijn642's Config Lib</a> [1.1.8+a]</li>
 </ul>
 </details>
