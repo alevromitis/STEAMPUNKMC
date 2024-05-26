@@ -2467,7 +2467,7 @@
   ],
   "formatVersion": 1,
   "game": "minecraft",
-  "name": "AGELIMC-v0.5.3-alpha",
+  "name": "AGELIMC-v0.5.5-alpha",
   "versionId": "0.5.5",
   "summary": "A Mineraft Fabric Modpack mainly focused on improving the vanilla GUI options while also adding some QoL & perfomance improvements."
 }
