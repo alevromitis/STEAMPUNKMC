@@ -996,21 +996,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/VSNURh3q/versions/QZ5cUNXs/c2me-fabric-mc1.20.1-0.2.0%2Balpha.11.5.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 1301166,
-      "hashes": {
-        "sha1": "f02c57844c514cf6706c8c31508e31af04238e1c",
-        "sha512": "4fd73cf2fa209224bfcb8cfa8701c8b4812426fdcfe16df6ef001800a306ca53da9d1b00aee5cb4930390f547c70340bf8bc093fcbbb08fda755318ecf188504"
-      },
-      "path": "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.5.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/89Wsn8GD/versions/z2zOEvPP/capes-1.5.2%2B1.20-fabric.jar"
       ],
       "env": {
@@ -2496,21 +2481,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/MyfCcqiE/versions/ePmWoRvJ/create_interactive-1201-fabric-1.0.2-beta.2.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 493254,
-      "hashes": {
-        "sha1": "0a4af9c302497e30339144e3994f487a968b9938",
-        "sha512": "1c5edb5f2533888f52c3ef86bb3c9de97560f435a25271143557d768f18fe0f8ca9084ae686bc611287d8a9070546f9df456aa40525ff4c835d04f4e1f9ccb64"
-      },
-      "path": "mods/create_interactive-1201-fabric-1.0.2-beta.2.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/GWp4jCJj/versions/HdgdrH1E/createbigcannons-fabric-1.20.1-0.5.4.jar"
       ],
       "env": {
@@ -2587,7 +2557,7 @@
   ],
   "formatVersion": 1,
   "game": "minecraft",
-  "name": "AGELIMC-v0.5.5-alpha",
-  "versionId": "0.5.5",
+  "name": "AGELIMC-v0.6.0-alpha",
+  "versionId": "0.6.0",
   "summary": "A Mineraft Fabric Modpack mainly focused on the Create Mod while improving the vanilla GUI options and also adding some QoL & perfomance improvements."
 }
