@@ -208,6 +208,14 @@ CONTENT(s):
 <li><a href="https://modrinth.com/mod/E9MuZ1zB">Create: Power Loader</a> [1.4.3-mc1.20.1-fabric]</li>
 <li><a href="https://modrinth.com/mod/CXd6g9xp">NiftyCarts</a> [3.0.2+1.20.1]</li>
 <li><a href="https://modrinth.com/mod/LOAzExdy">Blank Discs</a> [1.0.0]</li>
+<li><a href="https://modrinth.com/mod/V5ujR2yw">Valkyrien Skies 2</a> [2.3.0-beta.5]</li>
+<li><a href="https://modrinth.com/mod/MyfCcqiE">Create: Interactive</a> [1.0.2-beta.2]</li>
+<li><a href="https://modrinth.com/mod/GWp4jCJj">Create Big Cannons</a> [0.5.4-nightly-8b9cea6]</li>
+<li><a href="https://modrinth.com/mod/sMvUb4Rb">Create Deco</a> [2.0.2-1.20.1-fabric]</li>
+<li><a href="https://modrinth.com/mod/ZzjhlDgM">Create: Steam 'n' Rails</a> [1.6.4+fabric-mc1.20.1]</li>
+<li><a href="https://modrinth.com/mod/AEZO385x">Create Enchantment Industry</a> [1.2.16]</li>
+<li><a href="https://modrinth.com/mod/L1RT5SJc">Create Goggles</a> [0.5.5.g]</li>
+<li><a href="https://modrinth.com/mod/EO8aSHxh">VS Eureka Mod</a> [1.5.1-beta.3]</li>
 </ul>
 
 ---
