@@ -4,8 +4,6 @@
 **->** The main focus of this modpack is mainly on improving the vanilla GUI options while      also adding some QoL & perfomance improvements.\
 \
 **->** Some new **mechanics** are also introduced:
-> - ❄️&🔥 Temperature System
-> - 💧 Thirst Bar
 > - 🌡️ Seasons
 > - 🏆 Item related Quests
 
