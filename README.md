@@ -1,8 +1,7 @@
 ![AGELIMC Banner](https://cdn.modrinth.com/data/cached_images/ff53cfd4dd7c75562addc910a1334951d68a4e8f.png)  
 ## **-> SUMMARY:**
 \
-**->** The main focus of this modpack is mainly on improving the vanilla GUI options while      also adding some QoL & perfomance improvements.\
-\
+**->** The main focus of this modpack is mainly on the Create Mod while improving the vanilla GUI options and also adding some QoL & perfomance improvements.\
 **->** Some new **mechanics** are also introduced:
 > - 🌡️ Seasons
 > - 🏆 Item related Quests
