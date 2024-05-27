@@ -2463,11 +2463,131 @@
         "sha512": "ce6e8f7071bb37369ad3e90d844926b424e82d0fe0ffd0db7058abddc9cfcdd594e145c9395677ad70ec532f3da0b23b6862d1f1c20f7600263c215abb4fcea7"
       },
       "path": "mods/spark-1.10.53-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/ZzjhlDgM/versions/AJ3IGl3n/Steam_Rails-1.6.4%2Bfabric-mc1.20.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 9135839,
+      "hashes": {
+        "sha1": "6aebceb3b11005d9cf7255f26344e1c3a635c91c",
+        "sha512": "e2c1ea06c270118a99d6a047f48eb210b047c6a25b3f05c53e53f0e4d1fc2805cff23aea02f8543af7d175c4f35bd43ba928be13c443dfa122ae13f8043fa3f3"
+      },
+      "path": "mods/Steam_Rails-1.6.4+fabric-mc1.20.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/AEZO385x/versions/SI0RzkGk/create_enchantment_industry-1.2.16.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 520093,
+      "hashes": {
+        "sha1": "c1153315e3d0e7d216ca3179e483fe8b9f794433",
+        "sha512": "c9b9c8d03c763aa6e378d20534e8ae25861e6895b8f2f301108ae7271a6bfaceae306f1b45fbf79db5aa05a0164efc57db5dba37be54cc82dc3a652d6f6d5c3d"
+      },
+      "path": "mods/create_enchantment_industry-1.2.16.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/MyfCcqiE/versions/ePmWoRvJ/create_interactive-1201-fabric-1.0.2-beta.2.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 493254,
+      "hashes": {
+        "sha1": "0a4af9c302497e30339144e3994f487a968b9938",
+        "sha512": "1c5edb5f2533888f52c3ef86bb3c9de97560f435a25271143557d768f18fe0f8ca9084ae686bc611287d8a9070546f9df456aa40525ff4c835d04f4e1f9ccb64"
+      },
+      "path": "mods/create_interactive-1201-fabric-1.0.2-beta.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/GWp4jCJj/versions/HdgdrH1E/createbigcannons-fabric-1.20.1-0.5.4.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 3723712,
+      "hashes": {
+        "sha1": "5d459801752ea8266941730390fbf79df35ce72d",
+        "sha512": "eb07a414769426b9710c78a4b2b5cfb0167cdd73f8bd10db523db2048e4fc9cfb8f810522e0c32736e0d1118d9b95a9894b1c50b52e2fd577e150ab7efdaef67"
+      },
+      "path": "mods/createbigcannons-fabric-1.20.1-0.5.4.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/sMvUb4Rb/versions/GsxgfeNu/createdeco-2.0.2-1.20.1-fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 3971046,
+      "hashes": {
+        "sha1": "b7b525c64cde199d1ab12fee7f1171812a283646",
+        "sha512": "f7ce4b520b7eb47fb9d1a8f510465b96673dee2d6f91ff0720713ee62143d095b399a980666538ebfb8b401fb5e93baf50a2cb2be6a4f2adfde2024f198a35c9"
+      },
+      "path": "mods/createdeco-2.0.2-1.20.1-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/L1RT5SJc/versions/ruyz085C/creategoggles-1.20.1-0.5.5.g-%5BFABRIC%5D.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 159341,
+      "hashes": {
+        "sha1": "e3161f9f4c6285e22677e273cd3d2393a2dde115",
+        "sha512": "578363aab321a93fc2f70dce029edd52aafa2fea68fe0fb56a1fae3c2e6ee20112f5eecb6112b7f7306ef1659b4447102caae9fcd6352838926c740313195ef8"
+      },
+      "path": "mods/creategoggles-1.20.1-0.5.5.g-[FABRIC].jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/EO8aSHxh/versions/sXx5EPib/eureka-1201-1.5.1-beta.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 480907,
+      "hashes": {
+        "sha1": "8100f4117fe236343b6f03d8f03e0d9fd8322919",
+        "sha512": "614b47e312cf7a8d2aaa6f005e805a3ca35347123552d442d3b4d36ac3304bda2a85ef3823300eae0d6b66e35a10f0345ac44654bea6bd24a0e1be78196f2869"
+      },
+      "path": "mods/eureka-1201-1.5.1-beta.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/V5ujR2yw/versions/wDYLclLS/valkyrienskies-120-2.3.0-beta.5.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 20688696,
+      "hashes": {
+        "sha1": "284bbc3f8eb3f4c0d8ac1bb57eb6cff5af35a25c",
+        "sha512": "acc6a13e788768d54c9fdeb4da6f5112acbe6a11cb5f9f08f6792400e350af3c55eb18347f1f99b1c6a8ae1a1085856ebc23c51c1f1c5f60fb5b693255be20ad"
+      },
+      "path": "mods/valkyrienskies-120-2.3.0-beta.5.jar"
     }
   ],
   "formatVersion": 1,
   "game": "minecraft",
   "name": "AGELIMC-v0.5.5-alpha",
   "versionId": "0.5.5",
-  "summary": "A Mineraft Fabric Modpack mainly focused on improving the vanilla GUI options while also adding some QoL & perfomance improvements."
+  "summary": "A Mineraft Fabric Modpack mainly focused on the Create Mod while improving the vanilla GUI options and also adding some QoL & perfomance improvements."
 }
