@@ -1,0 +1,86 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				chest_minecart = true
+				villager = true
+				item_frame = true
+				rabbit = true
+				chicken = true
+				cow = true
+				sheep = true
+				fox = true
+				bee = true
+				item = true
+				wolf = true
+				armor_stand = true
+				iron_golem = true
+				pig = true
+				creeper = true
+				skeleton = true
+				zombie = true
+				zombie_villager = true
+				spider = true
+				enderman = true
+				squid = true
+				cave_spider = true
+				glow_squid = true
+				drowned = true
+				tnt_minecart = true
+				horse = true
+				cat = true
+				witch = true
+				experience_orb = true
+				salmon = true
+				goat = true
+				bat = true
+				polar_bear = true
+				cod = true
+				elder_guardian = true
+				lightning_bolt = true
+
+			[light_sources.settings.entities.naturalist]
+				robin = true
+				lizard = true
+				butterfly = true
+				finch = true
+				bear = true
+				cardinal = true
+				snake = true
+				deer = true
+				snail = true
+				boar = true
+				coral_snake = true
+				duck = true
+				elephant = true
+				bluejay = true
+				sparrow = true
+				bass = true
+				canary = true
+
+			[light_sources.settings.entities.create]
+				stationary_contraption = true
+				super_glue = true
+
