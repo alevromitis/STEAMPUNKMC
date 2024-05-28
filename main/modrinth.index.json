@@ -2523,7 +2523,7 @@
         "sha512":"4fd73cf2fa209224bfcb8cfa8701c8b4812426fdcfe16df6ef001800a306ca53da9d1b00aee5cb4930390f547c70340bf8bc093fcbbb08fda755318ecf188504"
       },
       "path":"mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.5.jar"
-    },
+    }
   ],
   "formatVersion": 1,
   "game": "minecraft",
