@@ -1,7 +1,7 @@
 ![STEAMPUNK MC](https://cdn.modrinth.com/data/cached_images/7163ac464bdb10a385282b6e4b0a6103ddea1d41.png)
 ## **-> SUMMARY:**
 \
-**->** The main focus of this modpack is mainly on the Create Mod while improving the vanilla GUI options and also adding some QoL & perfomance improvements.\
+**->** The main focus of this modpack is mainly on the Create Mod while improving the vanilla GUI options and also adding some QoL & perfomance improvements.<br><br>
 **->** Some new **mechanics** are also introduced:
 > - 🌡️ Seasons
 > - 🏆 Item related Quests
