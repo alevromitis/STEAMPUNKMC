@@ -2527,7 +2527,7 @@
   ],
   "formatVersion": 1,
   "game": "minecraft",
-  "name": "AGELIMC",
-  "versionId": "0.6.2",
+  "name": "STEAMPUNKMC",
+  "versionId": "0.6.4",
   "summary": "A Mineraft Fabric Modpack mainly focused on the Create Mod while improving the vanilla GUI options and also adding some QoL & perfomance improvements."
 }
