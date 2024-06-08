@@ -16,7 +16,7 @@
 
 ## **-> RELEASES:**
 > Due to Modrinth's TOS & mod licencing complications, all releases will be hosted on their platform.\
-> -> https://modrinth.com/modpack/agelimc/ 
+> -> https://modrinth.com/modpack/steampunkmc
 
 <details>
 <summary>Mods</summary>
