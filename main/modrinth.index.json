@@ -36,21 +36,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/lOOpEntO/versions/B5XgR60E/AttributeFix-Fabric-1.20.1-21.0.4.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 17975,
-      "hashes": {
-        "sha1": "9688bf005eb31d7cc9576f535acf819376d47068",
-        "sha512": "5b14861407ec024e6dfcc2a42917c88f674f57a77dda456541cac2610e63b7a66b00a4ef52f1d8cf86967aa9ed96b52bfa2de1808275010f9744689c3bb3b6b8"
-      },
-      "path": "mods/AttributeFix-Fabric-1.20.1-21.0.4.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/g96Z4WVZ/versions/eT6Jsaq5/BadOptimizations-2.1.1.jar"
       ],
       "env": {
@@ -291,21 +276,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/cudtvDnd/versions/VEGrI6sO/IAS-Fabric-1.20.1-9.0.0-beta.4.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "fileSize": 256981,
-      "hashes": {
-        "sha1": "060afcc881f33bbad626bb8526d7872ced637607",
-        "sha512": "c8e4cf9d721f75b47e677b9657f2418a7a75431eadb4d6a6088f02563d8984bacc73b99043a634086fcfe9367940ca8f252f9b0f17bb748f4544b7630e4c35fb"
-      },
-      "path": "mods/IAS-Fabric-1.20.1-9.0.0-beta.4.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/5faXoLqX/versions/uu7sqQDO/Iceberg-1.20.1-fabric-1.1.18.jar"
       ],
       "env": {
@@ -438,21 +408,6 @@
         "sha512": "c074913dcc1e574951a83fb870037f59dea57846762073e91c01488310c128793551491e057f9a0f1bee19d886b5b7f91d4324a5e3e56768476fed180cd778de"
       },
       "path": "mods/Nullscape_1.20.x_v1.2.5.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/nU0bVIaL/versions/Y6tuH1cn/Patchouli-1.20.1-84-FABRIC.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 856882,
-      "hashes": {
-        "sha1": "acbbeaae2f57052058a8444439f93d9a2d3efaf2",
-        "sha512": "b20cebaab0972443ccc7f3b10b2038d32cfa7baa953a1cc8de6333fa711f63fd51b1b5933e0f2757445385b98e132ef295bd7c17f67ebb44bc8481295329d8bf"
-      },
-      "path": "mods/Patchouli-1.20.1-84-FABRIC.jar"
     },
     {
       "downloads": [
@@ -1236,21 +1191,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/HQsBdHGd/versions/sJX8dbua/edf-remastered-4.3.jar"
-      ],
-      "env": {
-        "client": "optional",
-        "server": "required"
-      },
-      "fileSize": 47431624,
-      "hashes": {
-        "sha1": "80d348c609b4ee11092f15a3208903bded47c56b",
-        "sha512": "a08f40e37344c5608ac31e67758107ee42a637140f94d0feb8d1920c19b4ab1eebc40d5bcc3e538f8404401029efdc6986ced158feb4e72bb48a561f7f376fa5"
-      },
-      "path": "mods/edf-remastered-4.3.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/OVuFYfre/versions/i3v1Skck/enhancedblockentities-0.9%2B1.20.jar"
       ],
       "env": {
@@ -1446,36 +1386,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 125197,
-      "hashes": {
-        "sha1": "8fa3b84fc5860dbc30fdf8cced02af68dffcf3fa",
-        "sha512": "9b7dc686bfa7937815d88c7bbc6908857cd6646b05e7a96ddbdcada328a385bd4ba056532cd1d7df9d2d7f4265fd48bd49ff683f217f6d4e817177b87f6bc457"
-      },
-      "path": "mods/ferritecore-6.0.1-fabric.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/XeEZ3fK2/versions/QkWJuaZ8/freecam-fabric-modrinth-1.2.1%2B1.20.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "fileSize": 1072310,
-      "hashes": {
-        "sha1": "c057cd934d4d1c68b3f3775e864fd11e225d9f80",
-        "sha512": "16bd2f50d70f01d54374456df0b2e6a25c23857ea4c36ba6253303afd6d1ec592847e418792e4900abd5b597564a3745d130ddb491e2f2098a6b1438511628f7"
-      },
-      "path": "mods/freecam-fabric-modrinth-1.2.1+1.20.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/8BmcQJ2H/versions/qsvFEDEz/geckolib-fabric-1.20.1-4.4.4.jar"
       ],
       "env": {
@@ -1641,21 +1551,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/fQEb0iXm/versions/jiDwS0W1/krypton-0.2.3.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 185895,
-      "hashes": {
-        "sha1": "4d499819effd8afe811e5d93952fcc46765a00df",
-        "sha512": "92b73a70737cfc1daebca211bd1525de7684b554be392714ee29cbd558f2a27a8bdda22accbe9176d6e531d74f9bf77798c28c3e8559c970f607422b6038bc9e"
-      },
-      "path": "mods/krypton-0.2.3.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/yBW8D80W/versions/mYl4RvKg/lambdynamiclights-2.3.2%2B1.20.1.jar"
       ],
       "env": {
@@ -1668,21 +1563,6 @@
         "sha512": "4870953196e22d02844b76fdcae29823922401a5b238d134374308a256a7ffcfb9f087369fc0ec23b5cb218b995d2efa6f60ac0b99fbf9b298ee7ffbb4f6937a"
       },
       "path": "mods/lambdynamiclights-2.3.2+1.20.1.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.3/lazydfu-0.1.3.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 14531,
-      "hashes": {
-        "sha1": "0dfa8b03ed408fb7fdada29e01cfebba02af1049",
-        "sha512": "dc3766352c645f6da92b13000dffa80584ee58093c925c2154eb3c125a2b2f9a3af298202e2658b039c6ee41e81ca9a2e9d4b942561f7085239dd4421e0cce0a"
-      },
-      "path": "mods/lazydfu-0.1.3.jar"
     },
     {
       "downloads": [
@@ -1713,21 +1593,6 @@
         "sha512": "ddb8f43543dc0c51facfa1b85f947857fd8106aec926bb378c2f82d963bc1aaba94e33a93a57a35bdf8528b5d94b5e74b2405cc55f9084383f83bdc2441d75fa"
       },
       "path": "mods/make_bubbles_pop-0.2.0-fabric-mc1.19.4+.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/NRjRiSSD/versions/5xvCCRjJ/memoryleakfix-fabric-1.17%2B-1.1.5.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 49334,
-      "hashes": {
-        "sha1": "784bbbe9c64ac9d3d4ad19786c02291e607fcf4e",
-        "sha512": "a7bf7429340d076f4b30602bc714280c3f5cb8e814e76e89296c8155e3355b33304a148e9218378a3383127e95b7ba47402506c687f1d58609704fe8cc60ab93"
-      },
-      "path": "mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
     },
     {
       "downloads": [
@@ -2528,6 +2393,6 @@
   "formatVersion": 1,
   "game": "minecraft",
   "name": "STEAMPUNKMC",
-  "versionId": "0.6.4",
+  "versionId": "0.6.6",
   "summary": "A Mineraft Fabric Modpack mainly focused on the Create Mod while improving the vanilla GUI options and also adding some QoL & perfomance improvements."
 }
