@@ -25,19 +25,14 @@
 PERFOMANCE:
 ---
 <ul>
-	<li><a href="https://modrinth.com/mod/uXXizFIs">FerriteCore</a> [6.0.1]</li>
 	<li><a href="https://modrinth.com/mod/NNAgCjsB">EntityCulling-Fabric</a> [1.6.2-mc1.20.1]</li>
 	<li><a href="https://modrinth.com/mod/nmDcB62a">ModernFix</a> [5.17.0+mc1.20.1]</li>	
 	<li><a href="https://modrinth.com/mod/g96Z4WVZ">BadOptimizations</a> [2.1.1]</li>
 	<li><a href="https://modrinth.com/mod/5ZwdcRci">ImmediatelyFast</a> [1.2.14+1.20.4]</li>
 	<li><a href="https://modrinth.com/mod/OVuFYfre">Enhanced Block Entities</a> [0.9+1.20]</li>
 	<li><a href="https://modrinth.com/mod/AANobbMI">Sodium</a> [0.5.8+mc1.20.1]</li>
-	<li><a href="https://modrinth.com/mod/hvFnDODi">LazyDFU</a> [0.1.3]</li>
-    	<li><a href="https://modrinth.com/mod/fQEb0iXm">Krypton</a> [0.2.3]</li>
     	<li><a href="https://modrinth.com/mod/gvQqBUqZ">Lithium</a> [0.11.2]</li>
-	<li><a href="https://modrinth.com/mod/NRjRiSSD">Memory Leak Fix</a> [1.1.5]</li>
     	<li><a href="https://modrinth.com/mod/KuNKN7d2">Noisium</a> [2.0.3+mc1.20-1.20.1]</li>
-    	<li><a href="https://modrinth.com/mod/fQEb0iXm">Krypton</a> [0.2.3]</li>
 	<li><a href="https://modrinth.com/mod/l6YH9Als">spark</a> [1.10.53]</li>
 </ul>
 
@@ -60,11 +55,8 @@ FEATURE:
 DEBUG:
 ---
 <ul>
-	<li><a href="https://modrinth.com/mod/QwxR6Gcd">Debugify</a> [1.20.1+2.0]</li>
 	<li><a href="https://modrinth.com/mod/QdG47OkI">Model Gap Fix</a> [1.15]</li>
 	<li><a href="https://modrinth.com/mod/yM94ont6">Not Enough Crashes</a> [4.4.7+1.20.1]</li>
-  	<li><a href="https://modrinth.com/mod/lOOpEntO">AttributeFix</a> [21.0.4]</li>
-    	<li><a href="https://modrinth.com/mod/QwxR6Gcd">Debugify</a> [1.20.1+2.0]</li>
 </ul>
 
 
@@ -120,7 +112,6 @@ QoL & MANAGEMENT:   
 <li><a href="https://modrinth.com/mod/NK39zBp2">Blur (Fabric)</a> [3.1.0]</li>
 <li><a href="https://modrinth.com/mod/BdKIyOLe">Boat Item View Fabric</a> [0.0.5]</li>
 <li><a href="https://modrinth.com/mod/M08ruV16">Bobby</a> [5.0.1]</li>
-<li><a href="https://modrinth.com/mod/Wb5oqrBJ">Chat Heads</a> [0.10.32]</li>
 <li><a href="https://modrinth.com/mod/xv94TkTM">Controlling For Fabric</a> [12.0.2]</li>
 <li><a href="https://modrinth.com/mod/UVtY3ZAC">EnchantmentDescriptions</a> [17.0.14]</li>
 <li><a href="https://modrinth.com/mod/OSQ8mw2r">Explosive Enhancement</a> [1.2.2-1.20.x]</li>
@@ -161,16 +152,12 @@ QoL & MANAGEMENT:   
 <li><a href="https://modrinth.com/mod/89Wsn8GD">Capes</a> [1.5.2+1.20]</li>
 <li><a href="https://modrinth.com/mod/2M01OLQq">Shulker Box Tooltip</a> [4.0.4+1.20.1]</li>
 <li><a href="https://modrinth.com/mod/3qsfQtE9">Fabrishot</a> [1.10.1]</li>
-<li><a href="https://modrinth.com/mod/nU0bVIaL">Patchouli</a> [1.20.1-84-FABRIC]</li>
 <li><a href="https://modrinth.com/mod/pJogNFap">Paginated Advancements</a> [2.3.0]</li>
 <li><a href="https://modrinth.com/mod/yoJJjRRE">Clear Despawn</a> [1.1.15]</li>
-<li><a href="https://modrinth.com/mod/XeEZ3fK2">Freecam (Modrinth Edition)</a> [1.2.1+1.20]</li>
 <li><a href="https://modrinth.com/mod/uEfK2CXF">Just Enough Resources</a> [1.4.0.247]</li>
 <li><a href="https://modrinth.com/mod/RLzHAoZe">Resourcify</a> [1.3.6]</li>
 <li><a href="https://modrinth.com/mod/5ibSyLAz">Inventory Sorter</a> [1.9.0-1.20]</li>
 <li><a href="https://modrinth.com/mod/x02cBj9Y">Status Effect Bars</a> [1.0.3]</li>
-<li><a href="https://modrinth.com/mod/cudtvDnd">In-Game Account Switcher</a> [9.0.0-beta.4]</li>
-<li><a href="https://modrinth.com/mod/MOqt4Z5n">Chat Patches</a> [201.5.5]</li>
 <li><a href="https://modrinth.com/mod/smUP7V3r">Durability Tooltip</a> [1.1.5]</li>
 <li><a href="https://modrinth.com/mod/rUgZvGzi">Eating Animation</a> [1.20+1.9.61]</li>
 <li><a href="https://modrinth.com/mod/ErpAAAaf">Interactic</a> [0.2.0+1.20]</li>
@@ -180,10 +167,8 @@ QoL & MANAGEMENT:   
 <li><a href="https://modrinth.com/mod/ZPywkPEo">Realistic Sleep</a> [1.10.2+mc1.20-1.20.1]</li>
 <li><a href="https://modrinth.com/mod/AVq17PqV">Leaves Be Gone</a> [8.0.0]</li>
 <li><a href="https://modrinth.com/mod/rkN8aqci">Async Locator</a> [1.3.0]</li>
-<li><a href="https://modrinth.com/mod/HQsBdHGd">Ender Dragon Fight Remastered</a> [4.3]</li>
 <li><a href="https://modrinth.com/mod/villager-names-serilum">Villager Names</a> [7.3]</li>
 <li><a href="https://modrinth.com/mod/SRlzjEBS">AudioPlayer</a> [1.20.1-1.10.0]</li>
-<li><a href="https://modrinth.com/mod/nU0bVIaL">Patchouli</a> [1.20.1-84-FABRIC]</li>
 <li><a href="https://modrinth.com/mod/Vebnzrzj">LuckPerms</a> [5.4.102]</li>
 <li><a href="https://modrinth.com/mod/s86X568j">ChunkyBorder</a> [1.1.53]</li>
 <li><a href="https://modrinth.com/mod/LFJf0Klb">Chunky extended</a> [2.1.1]</li>
@@ -201,7 +186,6 @@ CONTENT(s):
 <li><a href="https://modrinth.com/mod/F8BQNPWX">Naturalist</a> [4.0.3]</li>
 <li><a href="https://modrinth.com/mod/rGWEHQrP">Small Ships</a> [2.0.0-b1.1]</li>
 <li><a href="https://modrinth.com/mod/BpwWFOVM">Bountiful</a> [6.0.3+1.20.1]</li>
-<li><a href="https://modrinth.com/mod/HQsBdHGd">Ender Dragon Fight Remastered</a> [4.3]</li>
 <li><a href="https://modrinth.com/mod/Xbc0uyRg">Create</a> [0.5.1-f-build.1417+mc1.20.1]</li>
 <li><a href="https://modrinth.com/mod/E9MuZ1zB">Create: Power Loader</a> [1.4.3-mc1.20.1-fabric]</li>
 <li><a href="https://modrinth.com/mod/CXd6g9xp">NiftyCarts</a> [3.0.2+1.20.1]</li>
