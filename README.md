@@ -25,29 +25,29 @@
 PERFOMANCE:
 ---
 <ul>
-	<li><a href="https://modrinth.com/mod/NNAgCjsB">EntityCulling-Fabric</a> [1.6.2-mc1.20.1]</li>
-	<li><a href="https://modrinth.com/mod/nmDcB62a">ModernFix</a> [5.17.0+mc1.20.1]</li>	
-	<li><a href="https://modrinth.com/mod/g96Z4WVZ">BadOptimizations</a> [2.1.1]</li>
-	<li><a href="https://modrinth.com/mod/5ZwdcRci">ImmediatelyFast</a> [1.2.14+1.20.4]</li>
-	<li><a href="https://modrinth.com/mod/OVuFYfre">Enhanced Block Entities</a> [0.9+1.20]</li>
-	<li><a href="https://modrinth.com/mod/AANobbMI">Sodium</a> [0.5.8+mc1.20.1]</li>
-    	<li><a href="https://modrinth.com/mod/gvQqBUqZ">Lithium</a> [0.11.2]</li>
-    	<li><a href="https://modrinth.com/mod/KuNKN7d2">Noisium</a> [2.0.3+mc1.20-1.20.1]</li>
-	<li><a href="https://modrinth.com/mod/l6YH9Als">spark</a> [1.10.53]</li>
+<li><a href="https://modrinth.com/mod/NNAgCjsB">EntityCulling-Fabric</a> [1.6.2-mc1.20.1]</li>
+<li><a href="https://modrinth.com/mod/nmDcB62a">ModernFix</a> [5.17.0+mc1.20.1]</li>
+<li><a href="https://modrinth.com/mod/g96Z4WVZ">BadOptimizations</a> [2.1.1]</li>
+<li><a href="https://modrinth.com/mod/5ZwdcRci">ImmediatelyFast</a> [1.2.14+1.20.4]</li>
+<li><a href="https://modrinth.com/mod/OVuFYfre">Enhanced Block Entities</a> [0.9+1.20]</li>
+<li><a href="https://modrinth.com/mod/AANobbMI">Sodium</a> [0.5.8+mc1.20.1]</li>
+<li><a href="https://modrinth.com/mod/gvQqBUqZ">Lithium</a> [0.11.2]</li>
+<li><a href="https://modrinth.com/mod/KuNKN7d2">Noisium</a> [2.0.3+mc1.20-1.20.1]</li>
+<li><a href="https://modrinth.com/mod/l6YH9Als">spark</a> [1.10.53]</li>
 </ul>
 
 ---
 FEATURE:
 ---
 <ul>
-	<li><a href="https://modrinth.com/mod/mOgUt4GM">Mod Menu</a> [7.2.2]</li>
-	<li><a href="https://modrinth.com/mod/YL57xq9U">Iris</a> [1.7.0+mc1.20.1]</li>
-	<li><a href="https://modrinth.com/mod/8shC1gFX">BetterF3</a> [7.0.2]</li>
-	<li><a href="https://modrinth.com/mod/Bh37bMuy">Reese's Sodium Options</a> [1.7.2+mc1.20.1-build.101]</li>
-	<li><a href="https://modrinth.com/mod/PtjYWJkn">Sodium Extra</a> [0.5.4+mc1.20.1-build.115]</li>
-	<li><a href="https://modrinth.com/mod/Orvt0mRa">Indium</a> [1.0.30+mc1.20.4]</li>
-	<li><a href="https://modrinth.com/mod/4I1XuqiY">Entity Model Features</a> [2.0.2]</li>
-	<li><a href="https://modrinth.com/mod/BVzZfTc1">Entity Texture Features</a> [6.0.1]</li>
+<li><a href="https://modrinth.com/mod/mOgUt4GM">Mod Menu</a> [7.2.2]</li>
+<li><a href="https://modrinth.com/mod/YL57xq9U">Iris</a> [1.7.0+mc1.20.1]</li>
+<li><a href="https://modrinth.com/mod/8shC1gFX">BetterF3</a> [7.0.2]</li>
+<li><a href="https://modrinth.com/mod/Bh37bMuy">Reese's Sodium Options</a> [1.7.2+mc1.20.1-build.101]</li>
+<li><a href="https://modrinth.com/mod/PtjYWJkn">Sodium Extra</a> [0.5.4+mc1.20.1-build.115]</li>
+<li><a href="https://modrinth.com/mod/Orvt0mRa">Indium</a> [1.0.30+mc1.20.4]</li>
+<li><a href="https://modrinth.com/mod/4I1XuqiY">Entity Model Features</a> [2.0.2]</li>
+<li><a href="https://modrinth.com/mod/BVzZfTc1">Entity Texture Features</a> [6.0.1]</li>
   
 </ul>
 
@@ -55,8 +55,8 @@ FEATURE:
 DEBUG:
 ---
 <ul>
-	<li><a href="https://modrinth.com/mod/QdG47OkI">Model Gap Fix</a> [1.15]</li>
-	<li><a href="https://modrinth.com/mod/yM94ont6">Not Enough Crashes</a> [4.4.7+1.20.1]</li>
+<li><a href="https://modrinth.com/mod/QdG47OkI">Model Gap Fix</a> [1.15]</li>
+<li><a href="https://modrinth.com/mod/yM94ont6">Not Enough Crashes</a> [4.4.7+1.20.1]</li>
 </ul>
 
 
